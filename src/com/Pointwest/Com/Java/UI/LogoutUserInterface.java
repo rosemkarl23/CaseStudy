@@ -1,7 +1,6 @@
 package com.Pointwest.Com.Java.UI;
 
 import java.util.Scanner;
-import com.Pointwest.Com.Java.Manager.LogoutManager;
 
 public class LogoutUserInterface {
 	public int logoutMenu() {
